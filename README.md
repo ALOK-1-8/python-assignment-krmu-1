@@ -1,2 +1,2 @@
-# python-assignment-krmu-1
+# python-assignment
 this is for my assignment
